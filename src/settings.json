@@ -1,0 +1,20 @@
+{
+	"voice_ranges": {
+		"soprano": {
+			"low": "C4",
+			"high": "E6"
+		},
+		"alto": {
+			"low": "F2",
+			"high": "D5"
+		},
+		"tenor": {
+			"low": "B2",
+			"high": "G4"
+		},
+		"bass": {
+			"low": "E2",
+			"high": "C4"
+		}
+	}
+}
